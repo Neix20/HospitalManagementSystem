@@ -20,3 +20,5 @@ Eclipse SDK Version 2020-09 (4.17)
 4. The system provides basic input validation
 
 ## Demonstration
+
+*Note: This Hospital Management System does not involve any SQL. It is made entirely out of JAVA only. This program was an exercise to improve my expertise over Java Language*
