@@ -20,5 +20,16 @@ Eclipse SDK Version 2020-09 (4.17)
 4. The system provides basic input validation
 
 ## Demonstration
-
+1. Navigation
+   ![Navigation Demo](Demonstration/Navigation.gif)
+2. Creating An Entity
+   ![Creating Entity Demo](Demonstration/Create_Entity.gif)
+3. Modify an Entity
+   ![Modify Entity Demo](Demonstration/Modify_Entity.gif)
+4. Show Entity
+   ![Show Entity Demo](Demonstration/Read_Entity.gif)
+5. Delete Entity
+   ![Delete Entity Demo](Demonstration/Delete_Entity.gif)
+6. Search and Filter Entity
+   ![Search and Filter Demo](Demonstration/Search_And_Filter_Entity.gif)
 *Note: This Hospital Management System does not involve any SQL. It is made entirely out of JAVA only. This program was an exercise to improve my expertise over Java Language*
